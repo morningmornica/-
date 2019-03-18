@@ -1,0 +1,124 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "00F42BD1-C7FF-4703-8955-0F5A820927C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 8414,
+    "width": 1920,
+    "x": 5968,
+    "y": -4417
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      960,
+      544,
+      1374
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DA3E9864-8AED-4D76-8B08-E384A8951B84"
+    },
+    {
+      "class": "group",
+      "id": "96DEE21C-4775-4169-8410-925370EB96CF"
+    },
+    {
+      "class": "group",
+      "id": "0A3E1BE0-F6CD-45B2-B03C-BCBC2A9E3F59"
+    },
+    {
+      "class": "group",
+      "id": "D09F5720-E052-4AD2-B20B-DFB218D17196"
+    },
+    {
+      "class": "group",
+      "id": "FE60C5FD-5B30-454C-9708-6E0661752391"
+    },
+    {
+      "class": "group",
+      "id": "15C2F768-79BD-48BF-B214-34D2C306B5F9"
+    },
+    {
+      "class": "group",
+      "id": "10002469-01B9-4637-8594-60B172CD9D70"
+    },
+    {
+      "class": "group",
+      "id": "DEF69FCA-E157-41AE-827E-FB00D06B0554"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 76,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24,
+    "guttersOutside": true,
+    "horizontalOffset": 360,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "londing page copy 3",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      2657
+    ]
+  }
+}

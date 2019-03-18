@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F7CE5F80-9D23-4047-9059-B4B6BD64E7ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 500,
+    "width": 1920,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "410B2788-CED9-4244-A008-B81EAD2AE536"
+    },
+    {
+      "class": "bitmap",
+      "id": "821C41B7-7866-4A86-819E-88A6506E0A48"
+    },
+    {
+      "class": "bitmap",
+      "id": "9D19A14E-B1B9-43F1-ACBE-6A632C25CF59"
+    },
+    {
+      "class": "bitmap",
+      "id": "65E7CC9B-AC4F-43BE-AA2D-4B63DF2B5B13"
+    },
+    {
+      "class": "rectangle",
+      "id": "8AE51AB2-05A2-4050-BE4D-0A6C630CBF0A"
+    }
+  ],
+  "name": "画师作品 + 画师作品 copy Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

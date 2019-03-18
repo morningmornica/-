@@ -1,0 +1,125 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B400D01C-ACFC-4309-9C5B-2C9EFBD78B62",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1488,
+    "width": 1920,
+    "x": 0,
+    "y": 2661
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2A04F4FB-C59E-46A4-80B5-E60BD2FD9CAA"
+    },
+    {
+      "class": "text",
+      "id": "42BC8DB5-B57A-4ADA-ACA1-C8023F6ACBFE"
+    },
+    {
+      "class": "text",
+      "id": "6CBFCE39-9ED0-4683-BC26-30F95768B84C"
+    },
+    {
+      "class": "text",
+      "id": "A1798BD1-585D-4B16-93D5-8C7FC5B5E61F"
+    },
+    {
+      "class": "text",
+      "id": "A527473A-BA30-4069-9A42-9BB489364E88"
+    },
+    {
+      "class": "text",
+      "id": "776488A3-9BE2-4365-B7B0-333054C07E65"
+    },
+    {
+      "class": "text",
+      "id": "740759F3-588A-4B4E-A907-78414ADA6D7E"
+    },
+    {
+      "class": "text",
+      "id": "03F365DB-717F-4B4C-A150-5A118CB24402"
+    },
+    {
+      "class": "text",
+      "id": "7B35AF50-7AB6-461E-8779-6AFE8772686E"
+    },
+    {
+      "class": "text",
+      "id": "646412A2-2FDF-469A-B1AA-ECC270049A7E"
+    },
+    {
+      "class": "text",
+      "id": "84B4C01E-DFEB-455B-8433-FC874B27739A"
+    },
+    {
+      "class": "oval",
+      "id": "E67891D0-1E35-4803-9907-ACD6778B653B"
+    },
+    {
+      "class": "oval",
+      "id": "CE387101-1E99-45C6-A3A3-FE176C238096"
+    },
+    {
+      "class": "oval",
+      "id": "A24AFC83-CCA7-48FA-8825-866F5C11EC23"
+    },
+    {
+      "class": "oval",
+      "id": "6C56FF05-F135-4E82-A423-975CA0FDADBE"
+    },
+    {
+      "class": "group",
+      "id": "6A52C1A6-DFC1-4E2E-B4F6-94AA70884B9F"
+    },
+    {
+      "class": "group",
+      "id": "E331C1B7-9AB0-41CE-A844-9EBC9C5E86E5"
+    },
+    {
+      "class": "group",
+      "id": "27592D33-DB9B-46AA-8D48-BD6E61EF29D2"
+    },
+    {
+      "class": "group",
+      "id": "52ECC35D-4B4C-4A07-AF46-923089D66B79"
+    }
+  ],
+  "name": "02-米画师流程",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

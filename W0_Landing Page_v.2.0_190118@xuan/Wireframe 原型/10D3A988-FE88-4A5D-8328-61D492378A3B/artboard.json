@@ -1,0 +1,171 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3D529D1E-97AE-4B3A-90DC-B0EF45AF7A76",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "10D3A988-FE88-4A5D-8328-61D492378A3B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "622AF2EB-8DB0-4D35-B85A-6CCD19C594A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "611FA874-3F96-4ECC-A279-28C083F31F49",
+    "height": 803,
+    "width": 1200,
+    "x": 4443,
+    "y": 2622
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C2C34BAC-4019-43AB-AEBD-FD3E4E5790D9",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "881BB4D4-FB41-444F-B5FC-E59A37CCF78B"
+    },
+    {
+      "class": "rectangle",
+      "id": "A4B2AFD3-A58A-4651-8885-4D1260F74FDC"
+    },
+    {
+      "class": "rectangle",
+      "id": "C3E2D936-CB8B-4524-89EC-A4E4EE3AEF2A"
+    },
+    {
+      "class": "group",
+      "id": "2FB6D63B-9CBF-481D-B645-1D13EBA257C3"
+    },
+    {
+      "class": "group",
+      "id": "8B13A6A0-06AE-415B-9FC2-262A3FBE5122"
+    },
+    {
+      "class": "group",
+      "id": "B3176370-C65E-49ED-AFFB-29D594DB80A3"
+    },
+    {
+      "class": "group",
+      "id": "0E73B874-B8DE-4D32-9A15-C26566EA4F45"
+    },
+    {
+      "class": "rectangle",
+      "id": "F09930E4-3F68-4BB8-853E-153AA6BED31B"
+    },
+    {
+      "class": "text",
+      "id": "BEA78D85-5A01-4E02-9D29-171C9F01DEA4"
+    },
+    {
+      "class": "rectangle",
+      "id": "735528B3-B17A-4544-AF3B-534267568388"
+    },
+    {
+      "class": "rectangle",
+      "id": "61C60C54-B0B9-4793-903A-819B9991B3E4"
+    },
+    {
+      "class": "text",
+      "id": "2A973930-70AB-416C-910B-2581101612D0"
+    },
+    {
+      "class": "rectangle",
+      "id": "CA0130C5-EEB2-4DAE-9213-DA6FD075BA5F"
+    },
+    {
+      "class": "rectangle",
+      "id": "45F79D1D-465E-4B64-82B4-E2C2B23625E9"
+    },
+    {
+      "class": "rectangle",
+      "id": "A00C9A09-DAC4-40D9-B43D-B6ECDA64394C"
+    },
+    {
+      "class": "rectangle",
+      "id": "D68099BB-ED05-4860-B32C-069CCF4872CE"
+    },
+    {
+      "class": "rectangle",
+      "id": "CA54D6B4-681F-4295-88E8-DB2D2AD1F196"
+    },
+    {
+      "class": "rectangle",
+      "id": "A5793E3B-7A4A-4A11-8608-239C847B622D"
+    },
+    {
+      "class": "rectangle",
+      "id": "779AC679-56A5-4413-B13D-4B6DD5D4AD2F"
+    },
+    {
+      "class": "rectangle",
+      "id": "A22F6DB4-4313-4497-9784-66086FE644F5"
+    },
+    {
+      "class": "rectangle",
+      "id": "0E4BD737-4B04-4AAC-90DF-77007D81C27D"
+    },
+    {
+      "class": "shapePath",
+      "id": "ACC5DBE8-353E-491D-8962-C9F87AC3AAE6"
+    },
+    {
+      "class": "group",
+      "id": "374951CB-7352-46DA-8A05-60D32E8AB595"
+    }
+  ],
+  "name": "1",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ABF43B6E-3590-47DE-B362-5F9829844FB1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6F7931B3-C4EF-425C-9525-9B9BEDFAF9C1",
+    "guides": [
+    ]
+  }
+}

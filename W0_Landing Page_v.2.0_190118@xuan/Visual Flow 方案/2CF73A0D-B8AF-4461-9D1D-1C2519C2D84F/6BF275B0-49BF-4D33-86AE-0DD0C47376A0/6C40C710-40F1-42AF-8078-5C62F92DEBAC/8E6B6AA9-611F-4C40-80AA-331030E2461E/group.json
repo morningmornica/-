@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8E6B6AA9-611F-4C40-80AA-331030E2461E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "01FB23BB-21F5-4949-B472-0131B09D37EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D0E87136-01A6-4347-8A96-D340E9E101A7",
+    "height": 36,
+    "width": 104,
+    "x": 248,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D4E1E303-5A96-4FD6-8D79-E942AD0D0327"
+    },
+    {
+      "class": "text",
+      "id": "1AA99B59-7716-4EBF-96BA-967E069C38BE"
+    }
+  ],
+  "name": "按钮本钮 copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B76706F7-E9C7-469E-AA38-FB7BA884396D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

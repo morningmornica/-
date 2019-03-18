@@ -1,0 +1,111 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "750A44D6-943A-4292-8090-7677EC98AF09",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 276,
+    "width": 2822,
+    "x": 0,
+    "y": 1177
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DC3BEB60-8E94-493A-8D93-0913E770DEA9"
+    },
+    {
+      "class": "rectangle",
+      "id": "633C2F06-40FD-4531-8B49-6046F8C3890E"
+    },
+    {
+      "class": "rectangle",
+      "id": "F0313D34-0FC0-4840-971F-674C2A290D7C"
+    },
+    {
+      "class": "rectangle",
+      "id": "D561A976-48DF-4FA0-AD38-8CFF0C1F32A1"
+    },
+    {
+      "class": "rectangle",
+      "id": "96890D8C-535E-448B-98A8-BDB4258BB695"
+    },
+    {
+      "class": "rectangle",
+      "id": "96C2A8FE-CE69-4F6D-9AFF-064DCA8AAA6B"
+    },
+    {
+      "class": "rectangle",
+      "id": "32111F8C-46D6-499C-8B75-7D96876922CB"
+    },
+    {
+      "class": "rectangle",
+      "id": "AD132C99-1440-40A1-8E17-40FE66252907"
+    },
+    {
+      "class": "rectangle",
+      "id": "EF921481-801C-4A97-93D7-C2EA2C313107"
+    },
+    {
+      "class": "rectangle",
+      "id": "CCA00964-3FEB-48BC-BBDD-019623F22094"
+    }
+  ],
+  "name": "列表图",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 8,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 8,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

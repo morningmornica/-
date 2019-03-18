@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "57D2B8E4-A2C3-4E19-B45A-53710E5B31BC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5474D04-E897-4EAE-8AF7-486FFB144ABC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AED52714-3206-45FB-9717-7D2FE003211C",
+    "height": 160,
+    "width": 1960,
+    "x": 240,
+    "y": 1235
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FE2483C9-4489-4D40-BC83-562D733B7DF7"
+    },
+    {
+      "class": "rectangle",
+      "id": "1EA25B1D-AD49-47A1-8208-B191142F4B03"
+    },
+    {
+      "class": "rectangle",
+      "id": "07DFA7ED-DED0-4F6F-AC64-3A97FFD0F475"
+    },
+    {
+      "class": "rectangle",
+      "id": "43490352-7469-4EA6-8E9A-1529EB595B76"
+    },
+    {
+      "class": "rectangle",
+      "id": "55D4A54A-E00A-45CE-9F15-350279C561C2"
+    },
+    {
+      "class": "rectangle",
+      "id": "406C4B1B-33E7-4E90-B8D1-5F9C14EC2D36"
+    },
+    {
+      "class": "rectangle",
+      "id": "BD400094-D51E-44B2-95DF-FD960A3503C3"
+    },
+    {
+      "class": "rectangle",
+      "id": "E7C99E8C-699D-4350-A0E8-BF2C95D3D579"
+    },
+    {
+      "class": "rectangle",
+      "id": "791B9C47-C966-4F85-947B-979E0D523FFC"
+    }
+  ],
+  "name": "列表遮罩",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "B8D71B92-8DDF-4959-95B2-F90B4B9E26AA",
+      "opacity": 0.7
+    },
+    "do_objectID": "9D9B7E82-FF34-4374-A5C2-A23C1A0F12F3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

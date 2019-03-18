@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "141FB218-61F4-4ABB-98E8-69C283EA66BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 67,
+    "width": 564,
+    "x": 678,
+    "y": 581
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "061ADF8B-9A2D-41F2-9D37-67FD9F8A7ED5"
+    },
+    {
+      "class": "rectangle",
+      "id": "684FAB89-796B-4050-8609-2DA483DF3AE9"
+    },
+    {
+      "class": "text",
+      "id": "4C2AD3DD-24A5-4EF7-833A-2F9495CF186E"
+    },
+    {
+      "class": "text",
+      "id": "977E7203-DB8D-4011-A3DB-F1F9E8629ABD"
+    }
+  ],
+  "name": "butten",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "78CE0766-710E-4EF7-B4E4-0EF62E785AB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C55CECE8-C768-4EC5-B4AA-5B29E655F938",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "45E63C45-39FF-4198-884A-8253FFE22FF4",
+    "height": 263,
+    "width": 2822,
+    "x": -487,
+    "y": 1294
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D4EE6EB5-4B57-4669-A74C-93E950D7CFA1"
+    },
+    {
+      "class": "rectangle",
+      "id": "479F2602-B209-4FEA-B88B-099A84323D3F"
+    },
+    {
+      "class": "rectangle",
+      "id": "E34C3904-B973-4D55-B91B-21457E73E0C8"
+    },
+    {
+      "class": "rectangle",
+      "id": "9419FE29-E403-4887-9BDC-7DFDBD543CFA"
+    },
+    {
+      "class": "rectangle",
+      "id": "B089869D-24DC-40EF-9335-C00FE624C904"
+    },
+    {
+      "class": "rectangle",
+      "id": "F0F8DAD9-E0B4-4FBB-9E42-BAFE362AE46F"
+    },
+    {
+      "class": "rectangle",
+      "id": "537F4024-B8FF-4AEF-966D-0C40733E5E14"
+    },
+    {
+      "class": "rectangle",
+      "id": "16A8171E-C052-42B0-AD5A-E5D7DA7B214F"
+    },
+    {
+      "class": "rectangle",
+      "id": "72FFFD19-E5E3-4A23-B268-4E7D19DF64C0"
+    }
+  ],
+  "name": "列表遮罩",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "F9048B4D-8845-417C-BC0A-8F8808C964D3",
+      "opacity": 0.7
+    },
+    "do_objectID": "F7CD0032-E7F1-4EAF-A6BA-E5B2DD8B85C4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

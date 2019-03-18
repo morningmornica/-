@@ -1,0 +1,60 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "65E7CC9B-AC4F-43BE-AA2D-4B63DF2B5B13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E5A3CC7-1756-43A0-9482-9A8A847A6DA1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "93E87D07-EE7E-4CDD-9C55-61007AC8E26E",
+    "height": 770.0227014755958,
+    "width": 2385,
+    "x": 652.0148180013025,
+    "y": 216.5227676390355
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/7997f4be4484484263ab645753c9ad3f06a28bff.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "画师作品 copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 15,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 8,
+      "do_objectID": "A8C38058-9083-4DA0-BF43-77C12CEAD961",
+      "opacity": 0.2533714657738095
+    },
+    "do_objectID": "F84982BE-7788-446B-946F-0A8BF8314E46",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "15C2F768-79BD-48BF-B214-34D2C306B5F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 487,
+    "width": 1013,
+    "x": 450,
+    "y": 7267
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4EFA064E-9C4C-4261-8CD3-3B28A641F2B9"
+    },
+    {
+      "class": "text",
+      "id": "D9CC9D95-FBF3-4EB8-8080-4DFC819F0B02"
+    },
+    {
+      "class": "bitmap",
+      "id": "C95451D9-C210-4861-8F0D-CE7288ADE69D"
+    },
+    {
+      "class": "bitmap",
+      "id": "46D594FE-2BE2-4A41-9FB0-E1475E0F60D4"
+    },
+    {
+      "class": "bitmap",
+      "id": "5864559A-DFF1-4CDC-B07F-BBD780FBF73A"
+    },
+    {
+      "class": "bitmap",
+      "id": "74B7C5CA-463A-4313-8ABA-BE1AD237735A"
+    },
+    {
+      "class": "bitmap",
+      "id": "37DEB7FC-FD12-418F-A025-D95BA375BC84"
+    },
+    {
+      "class": "bitmap",
+      "id": "BA4F363A-146C-4B2B-9C0A-7BF681945571"
+    },
+    {
+      "class": "bitmap",
+      "id": "A8D70F7E-8FAB-40C3-8ACE-1318EFFCB261"
+    },
+    {
+      "class": "bitmap",
+      "id": "04C122C7-0669-4894-92D5-7646328ACF90"
+    },
+    {
+      "class": "bitmap",
+      "id": "6B63926A-5302-4B0E-A4EB-D2DC7D1DE494"
+    },
+    {
+      "class": "bitmap",
+      "id": "B2F221B6-C8E7-4BE9-A084-FD1C046EDDF5"
+    },
+    {
+      "class": "bitmap",
+      "id": "AC38B8B8-5BD1-4533-8363-C0524B9CCCC7"
+    },
+    {
+      "class": "bitmap",
+      "id": "5099DF5E-5D71-4DC7-8AC0-AE5AB1F94ADB"
+    }
+  ],
+  "name": "06",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

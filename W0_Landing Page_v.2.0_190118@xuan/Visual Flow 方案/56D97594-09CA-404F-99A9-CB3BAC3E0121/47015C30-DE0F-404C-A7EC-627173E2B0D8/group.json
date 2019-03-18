@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "47015C30-DE0F-404C-A7EC-627173E2B0D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 1920,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F2F73C16-FDEF-4182-80BC-40788BA3C376"
+    },
+    {
+      "class": "text",
+      "id": "09F28744-A0CD-4E66-9C80-FBF1FA8F8053"
+    },
+    {
+      "class": "text",
+      "id": "34E49833-9C06-474A-A55D-02018BBF1E4C"
+    },
+    {
+      "class": "text",
+      "id": "31FF97AF-5D2F-4EEB-B14C-40E444DF89A7"
+    },
+    {
+      "class": "text",
+      "id": "86BC02DA-9916-442F-A3D1-7A7B7D81AB48"
+    },
+    {
+      "class": "text",
+      "id": "940EBAE8-9C0E-453E-A952-A71A7A01177C"
+    },
+    {
+      "class": "text",
+      "id": "00841787-2213-4F81-B119-9D8F5F800487"
+    },
+    {
+      "class": "text",
+      "id": "E5B362BC-0D19-4A1B-8A9F-B19C440D6DC1"
+    },
+    {
+      "class": "text",
+      "id": "31E3C209-72F5-4C2E-8446-BD26C3F55A8A"
+    },
+    {
+      "class": "bitmap",
+      "id": "CE608D5A-FD2E-48E7-BC4A-2FF6DBD0253B"
+    },
+    {
+      "class": "group",
+      "id": "2791887C-0366-41F0-AFD2-57F7EC9CB861"
+    }
+  ],
+  "name": "nav",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

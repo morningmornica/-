@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EC51987A-C342-4ED0-B752-9CFDB0F94E5A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 487,
+    "width": 1013,
+    "x": 450,
+    "y": 7265
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "15FC200B-40EE-4744-91EC-C67F8501F525"
+    },
+    {
+      "class": "text",
+      "id": "EDE138E5-059C-4EC1-B1B2-0B6578E61804"
+    },
+    {
+      "class": "bitmap",
+      "id": "AF2D891D-E486-4215-93E0-C7F0CD88945F"
+    },
+    {
+      "class": "bitmap",
+      "id": "D313079A-BC04-4B75-90F8-40C23DD1F9E9"
+    },
+    {
+      "class": "bitmap",
+      "id": "09B9573D-7A2C-4906-98CF-BE419047F452"
+    },
+    {
+      "class": "bitmap",
+      "id": "F7848255-39B7-4B04-8FDB-909480F1C5D7"
+    },
+    {
+      "class": "bitmap",
+      "id": "E9A88BF0-9F79-4B01-BEAB-BEFE9DD91060"
+    },
+    {
+      "class": "bitmap",
+      "id": "9B40B898-F72E-4E22-A0E8-75BDA6EF940A"
+    },
+    {
+      "class": "bitmap",
+      "id": "BB952833-B307-4079-B8FA-565BAFD16D36"
+    },
+    {
+      "class": "bitmap",
+      "id": "4BA37C19-7FFE-43DC-BB12-530FECCE56F6"
+    },
+    {
+      "class": "bitmap",
+      "id": "18B6F545-9524-47E5-B20B-344A194E32DD"
+    },
+    {
+      "class": "bitmap",
+      "id": "FC17C46C-1239-45B2-9DB4-0E733004A113"
+    },
+    {
+      "class": "bitmap",
+      "id": "68803D78-6753-4295-92D0-E84E1B7E747E"
+    },
+    {
+      "class": "bitmap",
+      "id": "2AF055C3-76AA-476E-ACD4-F82635DCA474"
+    }
+  ],
+  "name": "06",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

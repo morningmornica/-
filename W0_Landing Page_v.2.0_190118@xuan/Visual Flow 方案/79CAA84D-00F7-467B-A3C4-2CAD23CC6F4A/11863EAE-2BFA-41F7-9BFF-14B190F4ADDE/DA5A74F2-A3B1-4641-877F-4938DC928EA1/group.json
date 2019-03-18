@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DA5A74F2-A3B1-4641-877F-4938DC928EA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A7BB7BFD-5965-4FF0-B497-E08024461049",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "91D8D96D-47D4-4B1F-8EFE-F2CDAB30EFC5",
+    "height": 180,
+    "width": 212,
+    "x": 1011,
+    "y": 1088
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8D310EA1-57AF-4541-8A4F-53360C8CB802"
+    },
+    {
+      "class": "bitmap",
+      "id": "61FE72A8-3762-4F76-A8FA-7DF643B1B175"
+    }
+  ],
+  "name": "扫描宝文档创建于2018年12月14日 17_00_43 copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 1,
+      "do_objectID": "E3F21320-1E1D-4AC3-9C2D-5B278501C861",
+      "opacity": 1
+    },
+    "do_objectID": "9C4F1E21-3566-47AC-B835-2F7610370501",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

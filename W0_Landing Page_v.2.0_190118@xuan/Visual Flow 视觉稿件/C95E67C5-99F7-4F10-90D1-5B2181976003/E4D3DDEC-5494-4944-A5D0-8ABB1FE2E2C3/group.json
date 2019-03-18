@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E4D3DDEC-5494-4944-A5D0-8ABB1FE2E2C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "83DD5BF0-8EAE-4241-9D2B-10B80668DC4D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "19B99BFB-C45B-4E3A-8537-A82511958768",
+    "height": 1080,
+    "width": 1920,
+    "x": 0,
+    "y": 70
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7EFB7C8D-25AD-4C95-BE48-DCD195DFA473"
+    },
+    {
+      "class": "text",
+      "id": "F22AE8B4-8A15-4DAF-B24A-245941EBAE30"
+    },
+    {
+      "class": "text",
+      "id": "49F14C4A-1C90-45F2-9488-A9BE7D099AC6"
+    },
+    {
+      "class": "group",
+      "id": "D4474522-C5B4-43CC-A254-1B86F6D3141F"
+    },
+    {
+      "class": "group",
+      "id": "5DA39C64-B776-4DF0-BB2E-AABD91A3FA66"
+    }
+  ],
+  "name": "00-首屏",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C38C901F-BBFC-446E-B197-E1F0950684D9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

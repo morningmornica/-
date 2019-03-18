@@ -1,0 +1,60 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "5E1B7212-F328-4B2E-8037-8730362009D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FD27DC67-B0CD-4826-BC45-B646D413DD66",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6A9DCDF1-1225-4BA7-AD7D-6A9E297DF9F9",
+    "height": 427.7173498070578,
+    "width": 401.3769851561832,
+    "x": 208.7417547502521,
+    "y": 332.541560288134
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/09a3b3d181d95892303fd5bedcdea09136f8708f.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "叶子1@2x copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 38,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "ACB8CFF8-A4CF-4E69-A7FA-5FB1461CAA1E",
+      "opacity": 0.4934663318452381
+    },
+    "do_objectID": "73F9E349-4CDF-4BAD-8391-0B2039524F8B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7B36FE62-DF8E-4CE7-B2EE-6C58DDC3D435",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 980,
+    "width": 1920,
+    "x": -3292,
+    "y": 68
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "908FD696-EDC3-49FF-A7D0-61703270FD35"
+    },
+    {
+      "class": "group",
+      "id": "FA3D9675-E197-4BDD-871E-2C7CCE07063C"
+    },
+    {
+      "class": "group",
+      "id": "5D5172AD-A49E-4D76-AE7A-B3CBDDED6A8B"
+    },
+    {
+      "class": "rectangle",
+      "id": "D60637DF-0C2C-4B38-8BA3-0B16791AFB0F"
+    },
+    {
+      "class": "rectangle",
+      "id": "0A237E80-CD20-4A7E-83F2-4646C67E8961"
+    },
+    {
+      "class": "group",
+      "id": "77D4E935-F624-4FC4-9843-1C5AAE35304E"
+    },
+    {
+      "class": "group",
+      "id": "3F052714-38DB-4397-9230-29E927BEC78C"
+    },
+    {
+      "class": "group",
+      "id": "853CEC32-1BD3-476F-887D-F122FD4FF001"
+    },
+    {
+      "class": "text",
+      "id": "5442B082-F987-4992-A089-C067ACFF545E"
+    },
+    {
+      "class": "group",
+      "id": "D1B15BD4-D146-49D2-87A5-A7002225DBA7"
+    },
+    {
+      "class": "group",
+      "id": "9EBA859A-9040-474C-A1A5-9E4D85545C0A"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 76,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24,
+    "guttersOutside": true,
+    "horizontalOffset": 360,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "4屏备选方案",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
